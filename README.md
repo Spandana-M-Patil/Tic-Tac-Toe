@@ -7,7 +7,7 @@ This is a simple Tic-Tac-Toe game implemented in python.
 - Clear console-based interface.
 ## Installation
 ```cmd
-git clone
+git clone https://github.com/Spandana-M-Patil/Tic-Tac-Toe.git
 ```
 **Ensure python 3.x is installed**
 ## Run the script
